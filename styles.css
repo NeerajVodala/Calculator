@@ -14,38 +14,64 @@
     height: 100vh;
 }
 
+.calculator {
+    border: 1px solid black;
+}
+
 .heading {
     text-align: center;
 }
 
-.displayPort {
-    text-align: right;
-    width: 278px;
-    border: 1px solid black;
-    outline: none;
+.display {
+    width: 280px;
 }
+
+.display-upper,
+.display-main {
+    text-align: right;
+
+}
+
+.display-upper,
+.display-temp {
+    opacity: 50%;
+    padding: 0em 0.7em;
+    font-size: 90%;
+}
+
+.display-main {
+    font-size: 120%;
+    padding: 0em 0.5em;
+}
+
 
 table {
     border-spacing: 0px;
 }
 
 button {
-    height: 60px;
+    height: 3.75em;
     width: 70px;
     border: 1px solid white;
     outline: none;
-    background-color: #DCDCDC;
+    background-color: #ebebeb;
     transition: all 0.2s;
     cursor: pointer;
 }
 
 .span-color {
-    background-color: #C0C0C0; 
+    background-color: #C0C0C0;
+}
+
+.span-color-1 {
+    color: white;
+    background-color: #ff6700;
+}
+
+.span-color-1:hover {
+    background: #c34f00;
 }
 
 button:hover {
     background: #A9A9A9;
 }
-
-
-
