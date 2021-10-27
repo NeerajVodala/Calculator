@@ -28,7 +28,7 @@
 }
 
 .display {
-    width: 280px;
+    width: auto;
     color: #14FFEC;
     margin: 1em 0;
 }
