@@ -15,6 +15,8 @@ A calculator with three displays(1. Main display to show current value and resul
 ## Screenshots
 
 ![demo1](images/calc01.JPG)
+![demo1](images/calc02.JPG)
+![demo1](images/calc03.JPG)
 
 
 ## Upcoming Features
