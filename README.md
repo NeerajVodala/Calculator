@@ -22,6 +22,7 @@ A calculator with three displays(1. Main display to show current value and resul
 ## Upcoming Features
 
 - Light/dark mode toggle
+- operating directly through keyboard
 
 
 ## Feedback
